@@ -32,14 +32,14 @@ Your support helps fund development, infrastructure, documentation, maintenance,
 
 `2auS6MLgjW66kbmxtFzzqPCMVA1dcB5VSRJ64ca15kGV`
 
-![Solana Address](../svg/sol.svg)
+<img src="../svg/sol.svg" width="200" alt="madNodes Logo">
 
 `0x7d01ff66148cb537c99018b178af005efd6982fd`
 
-![Ethereum Address](../svg/eth.svg)
+<img src="../svg/eth.svg" width="200" alt="madNodes Logo">
 
 `XKO7d01ff66148cb537c99018b178af005efd6982fd`
 
-![OKX Address](../svg/okx.svg)
+<img src="../svg/okx.svg" width="200" alt="madNodes Logo">
 
 Thank you for supporting sustainable open-source development.
